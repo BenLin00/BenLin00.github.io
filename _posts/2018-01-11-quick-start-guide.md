@@ -1,27 +1,32 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Quarantine Intern @ Google"
 author: ben
-categories: [ Jekyll, tutorial ]
+categories: [ Intern, Blog ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+#### My Pod
+<\Insert Image here >
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+This is my Pod from the summer. These are the people I saw on a daily basis. 
+I had 2 wonderful intern hosts. I went to them when for all things professional. To be honest, I was super worried about not coming off as competent to them -- it was very hard to read when they were happy with my progress, or disappointed in my performance. But, they always offered their assistance, which is something I am more than grateful for. 
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+I also had 2 "podmates". They were both good teammates -- none of us expected to be in our own rooms for the summer, but they were really encouraging to me whenever I was struggling. We could talk and laugh about how we were struggling with how things were broken and not working, or how everything we made a mistake with git we would cringe when our hosts mentioned it, or when would accidentally step on each others' toes when merging branches. It was a long burn, but we made it. Maybe I didn't enjoy the summer the same way I expected. There weren't tons of fun events, food everyday, a concert, or a campus.
+What I wanted most was just being in a tech office surrounded by other people working on tech projects. What I wanted the most was to casually bump into people with a smile and say "Hi! I'm an intern this summer!". 
+Maybe it wasn't super fun, but I still learned a ton. Everytime I explain my entire summer project to a new recruiter, they're seriously impressed with the scope of it. And it makes me realize I need to take a little more pride in my own work too.
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+#### Imposter Syndrome
+I'm sure almost everyone at Google experiences imposter syndrome to some degree, but I really felt it this summer. 
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
+#### Project
+My podmates and I build a full-stack web application. 
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
 
-#### So how do we do spoilers?
+<!-- #### So how do we do spoilers? -->
 
-```html
+<!-- ```html
 <span class="spoiler">My hidden paragraph here.</span>
-```
+``` -->
