@@ -1,20 +1,25 @@
 ---
 layout: post
-title:  "Press and education"
+title:  "How I started CS"
 author: ben
-categories: [ Jekyll, tutorial ]
-image: assets/images/7.jpg
+categories: [ Computer Science, Education ]
+image: assets/images/blog-photos/umd-cs.jpg
 ---
-Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
 
-Education must also train one for quick, **resolute and effective thinking**. To think incisively and to think for one's self is very difficult. 
+#### I fell into CS by accident.
 
-> We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
+The only reason I took a single, intro CS course my 1st semester of college was because my big sister told me I should try it out, since "Tech is the future." Man, did that change my life.
 
+The thing about UMD is that it's undeniably a "tech school". Computer Science is the most populat major, and from my perspective of a freshman in engineering-undecided, going CS was just the default thing all my peers were doing. So, I signed myself up for the 2nd CS class to test the waters a little more. 
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+That second semester, I attended my first hackathon. I wanted to see what CS is really like, and building your own app actually seems super cool and fun. You could build something out of nothing but your brain and the internet! Things that work, that affect peoples'  lives. 
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+And that's why I kept going at it. I realized how cool it is that I could make a product used by millions of peoples. That, and building new things were the two things that made me decide on continuing to study Computer Science as my major. 
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+#### Where I am today
+Entering my 3rd year of undergrad, I suddenly realized that I don't particularly like my major. I mean, in high school I knew I didn't particularly like Math, but since I can think logically I figured I would be fine in CS. This semester, I realized I also don't have a passion for programming.
 
+**And... isn't that my whole major? Coding + Math?** 
+
+My passion for building is driven by my passion for impact. Yes, I still love building apps, but perhaps the appeal is buried underneath my lust for design and usability. Don't get me wrong -- I'm not a "bad programmer" in any regard. In fact, I would call myself rather remarkable for a 19 year-old. But software engineering isn't my passion, and I think it would be a waste if I were to enter the workforce with my soft-skills and design abilities gone unused.
+Which is why I think I resonate so soundly as a PM. And that's my next goal -- to become an excellent PM that maximizes a product's impact and makes it truly wonderful for its users.
