@@ -54,13 +54,29 @@ I made this with Khoa</p>
 <!-- make this a demo vid or gif -->
 <img src = "/assets/images/portfolio-photos/QueueTheMusic.png" alt="Spotify QueueTheMusic Project Screenshot">
 
-<!-- Insert thin horizontal line  -->
+<hr>
 
-<br> <br>
+<br>
 <h5> Target COVID-19 Store Occupany Tracker </h5>
+<h1> insert image here </h1>
+
 <h6> Hackathon Winner: "Overall Winner" and "Most Technically Challenging" </h6> 
-<p> I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. I built a hackathon hack. </p>
-<img src = "/assets/images/portfolio-photos/QueueTheMusic.png" alt="Spotify QueueTheMusic Project Screenshot">
+<p> As part of the Target Diversity Leadership Symposium Conference during August 2020, I worked on project with 3 teammates to design an app that would help customers locate nearby Target stores and how crowded each store is as it reaches maximum COVID-19 regulated capacity. <br>
+
+<h6> Background </h6>
+We created a mock-up of what this application would look like. During events such as Black Friday, when stores experience overcrowding, an employee is often stationed at each entrance to limit the number of customers inside at a single time. This has become even more common with the further limited occupancy due to social distancing requirements. This Fall 2020 Semester, a new Target store opened up next to UIUC campus, where I was located. Nearly every other day during its first month of opening, there was a line of people waiting outside to enter the store (and there weren't even special event sales!). <br> <br>
+
+<h6> Description </h6>
+This app allows users to view nearby Target stores according to the user's GPS location. Store locations are highlighted on a Google Map Services-powered map in color according to occupancy-- <br>
+Red: if there is a line of people waiting outside store <br> Yellow: if the store is approximately at max occupancy <br> Green: if the store occupancy is not near max occupancy. <br>
+
+<h2> Insert Map Image here and Demo</h2>
+
+Check out the slides from our presentation <a target="_blank" href="ter.ps/targetHack">here</a>
+</p>
+
+
+<!-- close col-md-5 div -->
 </div>
 
 <div class="col-md-4">
