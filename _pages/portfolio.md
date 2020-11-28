@@ -119,20 +119,31 @@ database design, Google OAuth, Google Classroom API, Google Cloud Vision API, Ma
 <h6> What I did </h6>
 asdf <br>
 Also, Agile dev design doc writing, code reviews, scope prioritization, roadmapping, and prototyping. <br>
-Significance with COVID-19
+//Significance with COVID-19
 </p>
 <img src = "/assets/images/blog-photos/google-podmates.jpg" alt="Google Project Image">
 
+<hr>
+
+<br>
+<h5> National Institutes of Health Internship </h5>
+<p> Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. <br>
+I worked within the Division of Technical Resources at NIH, specifically the Utilities Engineering Branch. NIH has a Central Utility Plant (CUP) on campus to generate hot/cold water and steam for its hospitals and research buildings. I worked primarily in Matlab to improve a model that would predict the amount of utilities that needed to be generated on a given hour. For example, a hot, low-humidity day might require more cold water generation, especially as the load/demand for cold water within the hospital increases. These predictions hypotheticall create virtual, predicted savings as the CUP operators could adjust thier production accordingly.
 <br> <br>
+I also did front-end web development there too! Since I often found myself with time leftover, I picked up a secondary project -- working on the dynamic web pages of a website used to in Angular to do perform a datapull from the PI OSIsoft internal database in a convenient UI for the operators to act off of.
+<br>
+My cointerns, Marissa, Alex, and I pictured below:
+</p>
+<img src = "/assets/images/portfolio-photos/NIH_cointerns.jpg" alt="NIH Cointerns">
+
+<hr>
+
+<br> 
 <h5> Hack UMBC </h5>
 <p> Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. </p>
 <img src = "/assets/images/blog-photos/google-podmates.jpg" alt="Google Project Image">
 
-<br> <br>
-<h5> National Institutes of Health Internship </h5>
-<p> Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. </p>
-<img src = "/assets/images/blog-photos/google-podmates.jpg" alt="Google Project Image">
-
+<!-- close col-md-5 div -->
 </div>
 
 <div class="col-md-4">
