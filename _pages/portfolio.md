@@ -102,8 +102,25 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 
 <div class="col-md-8 pr-5">
 
-<h5> Google STEP Internship </h5>
-<p> Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. Stuff about Google and what I did. </p>
+<h5> Google STEP Internship - Google Classroom Autograder</h5>
+<p> 
+During my Summer 2020 internship, I worked with two other co-interns to build a Full-Stack Web Application. This application is an autograder for virtual teachers to autograde student coursework submissions on Google Classroom. <br>
+
+This application used the OAuth for an instructor to login to the webste with the same account they use for Google Classroom. We used the Google Classroom API such that the website pulled all the courses, assignments, and submissions from an instructor's Google Classroom account. Next, we created pagination and a frontend for the teacher to view a single students' submission of a worksheet. This frontend allows a teacher to mark out the response area from the student for each question.
+<br>
+After each questions' response area has been marked accordingly, the application parses the responses as images from each student. The Google Cloud Vision API is next implemented to parse out the written text. All responses for a single question are converted to Strings, and similar responses to a question are grouped together in buckets. 
+<br>
+Finally, the instructor is able to assign a point value to each bucket of responses. This allows for partial grading, for example, all responses with the answer "Rome" can be assigned a 10pt value, while all responses answered "Italy" can be assigned 5pts. This application greatly cuts down on the amount of time a teacher would spend grading each student's answer to each question, as they would now only need to grade each unique response to each question once. 
+<br>
+
+<h6> Technical Specifications </h6>
+database design, Google OAuth, Google Classroom API, Google Cloud Vision API, Materialize.css
+
+<h6> What I did </h6>
+asdf <br>
+Also, Agile dev design doc writing, code reviews, scope prioritization, roadmapping, and prototyping. <br>
+Significance with COVID-19
+</p>
 <img src = "/assets/images/blog-photos/google-podmates.jpg" alt="Google Project Image">
 
 <br> <br>
