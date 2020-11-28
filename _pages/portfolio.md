@@ -25,10 +25,11 @@ Here are a few of my project highlights from over the past few years.
 <div class="col-md-8 pr-5">
 <h5> Spotify Public Queue Feature </h5>
 <h6> "Tell me about your favorite product and what you would change about it" </h6>
-<p> That is the most common PM interview question I get asked. I decided to make a mock-up of exactly what my response is. Here's my response: <br>
-I really enjoy Spotify as an avid music listener. It's great for organizing your favorite music, managing playlists, and discovering new music. One of its weaker points is when it comes to sharing music with others. A fan-favorite feature of the webapp is the right column "Friend Activity" scroll -- I enjoy seeing what my friends are listening to in real time, and many of my friends do too! Let's incorporate this into a new proposed feature. <br> <br>
+<p> The most common PM interview question I get asked. I made a mock-up of what my response is: <br>
+I really enjoy Spotify as an avid music listener. It's great for organizing your favorite music, managing playlists, and discovering new music. One of its weaker points is when it comes to sharing music with others. A fan-favorite feature of the webapp is the right column "Friend Activity" scroll -- I enjoy seeing what my friends are listening to in real time, and many of my friends do too! Let's incorporate this into a new proposed feature. </p>
 
-Currently, users right click on a song > share and send their friends a link to a song over another social media app or as a url. This is a bit clunky -- it's annoying to receive a message and stop doing whatever you're doing just to listen to a song. It's distracting and obstructive. If a customer is wanting and able to listen to music, they would already be listening to music. Sending someone a song over social media just gets ignored until an appropriate time. Instead, I designed a way to casually recommend songs for a mutually following friend. <br> <br>
+<p>
+Currently, users right click on a song > share and send friends a link to over another social media app or as a url. This is a bit clunky -- it's annoying to receive a message and stop doing whatever you're doing just to listen to a song. It's distracting and obstructive. If a customer is wanting and able to listen to music, they would already be listening to music. Sending someone a song over social media just gets ignored until an appropriate time. Instead, I designed a way to casually recommend songs for a mutually following friend. <br> <br>
 
 This would have a search bar on the friend activity column so that users can search by name the user they want to send a song to, combined with the drag + drop UI that Spotify users are already familiar with, so users don't experience frustration with learning how to use a new feature. This is shown as with the demo below: <br> 
 
