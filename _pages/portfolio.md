@@ -74,7 +74,7 @@ Red: if there is a line of people waiting outside store <br> Yellow: if the stor
 
 Check out the slides from our presentation <a target="_blank" href="ter.ps/targetHack">here</a>
 </p>
-
+<hr>
 
 <!-- close col-md-5 div -->
 </div>
@@ -139,9 +139,22 @@ My cointerns, Marissa, Alex, and I pictured below:
 <hr>
 
 <br> 
-<h5> Hack UMBC </h5>
-<p> Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. Cardian Connection. </p>
-<img src = "/assets/images/blog-photos/google-podmates.jpg" alt="Google Project Image">
+<h5> HackUMBC - Cardiac Connection </h5>
+<p> I competed in  HackUMBC Fall 2019! I built an app similar to Tinder, but with a bit more HCI (Human-Computer Interaction) pushed into it. <br>
+At this particularly hackathon, the majority of the sponsors had come up with challenges such as "Best Data Visualization Hack" or something along those lines. But none of them provided a dataset, and I didn't want to waste time at a 24-hour hackathon doing data mining and cleansing. <br>
+
+So instead, my two friends and I decided to throw something together a little more fun! We built a Javascript App using Cordova, which allowed us to demo on either Android or iOS. This application allowed users to swipe either left or right on card profiles, containing a person's photo and short bio. I also utilized the Google Cloud API -- GCP datastore buckets to store these profiles and fetch them for the app. <br>
+
+We also built a Fitbit App, which would take note of your heart rate. This would be used to ping the mobile app on someone's device to automatically swipe right when the users' heart rate escalates. <br>
+
+<h6> Next Steps </h6>
+Unfortunately, this is only a 24-hour hackathon, so of course features went unfinished. Our next step would include an interface for users to build their own profile, rather than simply swiping on other profiles. Another feature to implement would be real-time chat. <br>
+The Fitbit would not communicate, however, because using the Fitbit API requires someone to manually review the request to utilize it. Because we overlooked this at the start of our project design, we were unable to get access to use the API in time. A next step would be incorporating the Fitbit and Mobile apps to communicate.
+</p>
+
+Check out the devpost from the hackathon <a target="_blank" href="https://devpost.com/software/cardiac-chemistry">here</a>
+
+<hr>
 
 <!-- close col-md-5 div -->
 </div>
