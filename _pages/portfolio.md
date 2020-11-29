@@ -13,7 +13,7 @@ Here are a few of my project highlights from over the past few years.
 <!-- PM Projects
 ================================================== -->
 <section>
-    <div class="section-title">
+    <div id="PM_section" class="section-title">
         <h2><span>Product Management / Design </span></h2>
     </div>
 
@@ -84,6 +84,11 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 <div class="sticky-top sticky-top-80">
 <h5>Product Management / Design Projects</h5>
 <p> These are some of my favorite PM projects. I've really practiced thinking like a PM and what would be best for a target user / persona. </p>
+
+<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
+<a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
+
 </div>
 </div>
 
@@ -94,7 +99,7 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 <!-- SWE Projects
 ================================================== -->
 <section>
-    <div class="section-title">
+    <div id="SWE_section" class="section-title">
         <h2><span> Software Engineering Experience </span></h2>
     </div>
 </section>
@@ -164,6 +169,11 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 <div class="sticky-top sticky-top-80">
 <h5>Software Engineering Projects</h5>
 <p> These are some of my favorite SWE projects. beep boop. </p>
+
+<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
+<a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
+
 </div>
 </div>
 
@@ -174,7 +184,7 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 <!-- Consulting Projects
 ================================================== -->
 <section>
-    <div class="section-title">
+    <div id="consulting_section" class="section-title">
         <h2><span> Consulting Experience </span></h2>
     </div>
 </section>
@@ -205,6 +215,11 @@ insert information on data sources -- CAFB Distribution Location data, Census So
 <div class="sticky-top sticky-top-80">
 <h5>Consulting Projects</h5>
 <p> I'm part of the QUEST Honors Program at the University of Maryland! As part of the program, I've worked in teams on these projects with Engineerings, CMNS, and Business students to consult for various organizations. </p>
+
+<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
+<a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
+
 </div>
 </div>
 

@@ -550,6 +550,21 @@ ul.tags li a:hover {
     text-transform: uppercase;
 }
 
+.btn-peach {
+    background-color: #FFAEA5;
+    color: #000000;
+}
+
+.btn-teal {
+    background-color: #55CBCD;
+    color: #000000;
+}
+
+.btn-purple {
+    background-color: #CBAACB;
+    color: #000000;
+}
+
 .post-top-meta .btn.follow {
     margin-left: 5px;
     margin-top: -4px;
