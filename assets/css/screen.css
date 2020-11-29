@@ -553,16 +553,19 @@ ul.tags li a:hover {
 .btn-peach {
     background-color: #FFAEA5;
     color: #000000;
+    text-align: center;
 }
 
 .btn-teal {
     background-color: #55CBCD;
     color: #000000;
+    text-align: center;
 }
 
 .btn-purple {
     background-color: #CBAACB;
     color: #000000;
+    text-align: center;
 }
 
 .post-top-meta .btn.follow {
