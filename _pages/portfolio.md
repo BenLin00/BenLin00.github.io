@@ -23,7 +23,7 @@ Here are a few of my project highlights from over the past few years.
 <div class="row justify-content-between">
 
 <div class="col-md-8 pr-5">
-<h5> Spotify Public Queue Feature </h5>
+<h5> Spotify Public Queue Feature (Fall 2020)</h5>
 <h6> "Tell me about your favorite product and what you would change about it" </h6>
 <p> The most common PM interview question I get asked. I made a mock-up of what my response is: <br>
 I really enjoy Spotify as an avid music listener. It's great for organizing your favorite music, managing playlists, and discovering new music. One of its weaker points is when it comes to sharing music with others. A fan-favorite feature of the webapp is the right column "Friend Activity" scroll -- I enjoy seeing what my friends are listening to in real time, and many of my friends do too! Let's incorporate this into a new proposed feature. </p>
@@ -58,7 +58,7 @@ I made this with Khoa</p>
 <hr>
 
 <br>
-<h5> Target COVID-19 Store Occupany Tracker </h5>
+<h5> Target COVID-19 Store Occupany Tracker (Aug 2020)</h5>
 <h1> insert image here </h1>
 
 <h6> Hackathon Winner: "Overall Winner" and "Most Technically Challenging" </h6> 
@@ -103,7 +103,7 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 
 <div class="col-md-8 pr-5">
 
-<h5> Google STEP Internship - Google Classroom Autograder</h5>
+<h5> Google STEP Internship - Google Classroom Autograder (Summer 2020)</h5>
 <p> 
 During my Summer 2020 internship, I worked with two other co-interns to build a Full-Stack Web Application. This application is an autograder for virtual teachers to autograde student coursework submissions on Google Classroom. <br>
 
@@ -127,7 +127,7 @@ Also, Agile dev design doc writing, code reviews, scope prioritization, roadmapp
 <hr>
 
 <br>
-<h5> National Institutes of Health Internship </h5>
+<h5> National Institutes of Health Internship (Summer 2019) </h5>
 <p> Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. <br>
 I worked within the Division of Technical Resources at NIH, specifically the Utilities Engineering Branch. NIH has a Central Utility Plant (CUP) on campus to generate hot/cold water and steam for its hospitals and research buildings. I worked primarily in Matlab to improve a model that would predict the amount of utilities that needed to be generated on a given hour. For example, a hot, low-humidity day might require more cold water generation, especially as the load/demand for cold water within the hospital increases. These predictions hypothetically create virtual, predicted savings as the CUP operators could adjust their production accordingly.
 <br> <br>
@@ -140,7 +140,7 @@ My cointerns, Marissa, Alex, and I pictured below:
 <hr>
 
 <br> 
-<h5> HackUMBC - Cardiac Connection </h5>
+<h5> HackUMBC - Cardiac Connection (Fall 2019) </h5>
 <p> I competed in  HackUMBC Fall 2019! I built an app similar to Tinder, but with a bit more HCI (Human-Computer Interaction) pushed into it. <br>
 At this particularly hackathon, the majority of the sponsors had come up with challenges such as "Best Data Visualization Hack" or something along those lines. But none of them provided a dataset, and I didn't want to waste time at a 24-hour hackathon doing data mining and cleansing. <br>
 
@@ -183,14 +183,19 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 
 <div class="col-md-8 pr-5">
 
-<h5> Expressions Kenya </h5>
+<h5> Expressions Kenya (Fall 2020) </h5>
 <p> Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did.  </p>
 <img src = "/assets/images/portfolio-photos/QueueTheMusic.png" alt="Spotify QueueTheMusic Project Screenshot">
 
 <br> <br>
-<h5> CAFB </h5>
-<p> Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. Stuff about CAFB and what I did. </p>
-<img src = "/assets/images/portfolio-photos/QueueTheMusic.png" alt="Spotify QueueTheMusic Project Screenshot">
+<h5> Captial Area Food Bank - Data Analytics (Spring 2020) </h5>
+<p> 
+The Capital Area Food Bank (CAFB) is one of the largest Food Banks in the mid-atlantic region. They serve 380,000 individuals in the DC, MD, and VA area. My team consisting of 3 other team members and myself, were tasked with optimizing their impact by identifying areas of greatest opportunity. 
+<br>
+The CAFB has 450+ Food Assistance Partners. This includes emergencies, soup kitchens, senior programs, among others. Given the census tract data on the area, we used Python to identify outlier areas of underserved populations where the CAFB can potentially reallocate resources. Due to the COVID-19 pandemic, implementing any of these changes has been delayed. However, please view the poster below as our provided recommendations.
+</p>
+
+<img src = "/assets/images/portfolio-photos/CAFB_poster.png" alt="CAFB Consulting Project Recommendations Poster">
 
 </div>
 
