@@ -193,6 +193,8 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 The Capital Area Food Bank (CAFB) is one of the largest Food Banks in the mid-atlantic region. They serve 380,000 individuals in the DC, MD, and VA area. My team consisting of 3 other team members and myself, were tasked with optimizing their impact by identifying areas of greatest opportunity. 
 <br>
 The CAFB has 450+ Food Assistance Partners. This includes emergencies, soup kitchens, senior programs, among others. Given the census tract data on the area, we used Python to identify outlier areas of underserved populations where the CAFB can potentially reallocate resources. Due to the COVID-19 pandemic, implementing any of these changes has been delayed. However, please view the poster below as our provided recommendations.
+<br>
+insert information on data sources -- CAFB Distribution Location data, Census Socioeconomic Data, folium data visualization
 </p>
 
 <img src = "/assets/images/portfolio-photos/CAFB_poster.png" alt="CAFB Consulting Project Recommendations Poster">
