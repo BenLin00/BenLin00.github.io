@@ -8,6 +8,9 @@ comments: false
 <p>
 Here are a few of my project highlights from over the past few years.
 </p>
+<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
+<a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
 
 <br>
 <!-- PM Projects
@@ -16,7 +19,6 @@ Here are a few of my project highlights from over the past few years.
     <div id="PM_section" class="section-title">
         <h2><span>Product Management / Design </span></h2>
     </div>
-
 </section>
 
 
