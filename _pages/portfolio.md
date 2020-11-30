@@ -28,11 +28,14 @@ Here are a few of my project highlights from over the past few years.
 <h5> Spotify Public Queue Feature (Fall 2020)</h5>
 <h6> "Tell me about your favorite product and what you would change about it" </h6>
 <p> The most common PM interview question I get asked. I made a mock-up of what my response is: <br>
-I really enjoy Spotify as an avid music listener. It's great for organizing your favorite music, managing playlists, and discovering new music. One of its weaker points is when it comes to sharing music with others. A fan-favorite feature of the webapp is the right column "Friend Activity" scroll -- I enjoy seeing what my friends are listening to in real time, and many of my friends do too! Let's incorporate this into a new proposed feature. </p>
+As an avid music listener, Spotify is a great way to organize your favorite music, manage playlists, and discover new music. However, it’s social function is slightly lacking. A fan-favorite feature of the webapp is the right column "Friend Activity" scroll, which allows my friends and I to see what song we’re listening to in real-time. Let's incorporate this into a new proposed feature. </p>
+
 
 <p>
-Currently, users right click on a song > share and send friends a link to over another social media app or as a url. This is a bit clunky -- it's annoying to receive a message and stop doing whatever you're doing just to listen to a song. It's distracting and obstructive. If a customer is wanting and able to listen to music, they would already be listening to music. Sending someone a song over social media just gets ignored until an appropriate time. Instead, I designed a way to casually recommend songs for a mutually following friend. <br> <br>
+Currently, users right click on a song > share and send friends a link via other social media apps as a url. This convoluted share process is distracting and obstructive because users are forced to set up their listening experience, whether it's putting in headphones or opening the application anew on their device. If a customer is wanting and able to listen to music, they would already be listening to music. Sending someone a song over social media just gets ignored until an appropriate time. Instead, I designed a way to casually recommend songs.
+</p
 
+<p>
 This would have a search bar on the friend activity column so that users can search by name the user they want to send a song to, combined with the drag + drop UI that Spotify users are already familiar with, so users don't experience frustration with learning how to use a new feature. This is shown as with the demo below: <br> 
 
 <h2> demo </h2>
@@ -45,10 +48,10 @@ New song suggestions are paired up with a new <b> Public Queue </b> in addition 
 <!-- insert demo here -->
 
 <br>
-Practically speaking, this is a seamless integration of increased social interaction of users on the platform. It may also encourage potential customers to become Spotify users as another way to casually connect with friends.
+Practically speaking, this is a seamless integration of increased social interaction of users on the platform. Enhanced social functions may also appeal to customers as a way to casually connect with friends.
 
 <h6> USE CASES </h6>
-Often times, social gatherings are associated with actively playing music. Multiple people wish to queue-up song requests at events. However, this requires crowding around a single device, or utilizing Spotify's beta Group Sessions, where users can only override the currently playing song at max 5 users.
+Social gatherings are often accompanied by music. Multiple people wish to queue-up song requests at events. However, this requires crowding around a single device, or utilizing Spotify's beta Group Sessions, where users can only override the currently playing song at max 5 users.
 
 <br> Personas
 <br>
@@ -64,19 +67,23 @@ I made this with Khoa</p>
 <h1> insert image here </h1>
 
 <h6> Hackathon Winner: "Overall Winner" and "Most Technically Challenging" </h6> 
-<p> As part of the Target Diversity Leadership Symposium Conference during August 2020, I worked on project with 3 teammates to design an app that would help customers locate nearby Target stores and how crowded each store is as it reaches maximum COVID-19 regulated capacity. <br>
+<p> As part of the Target Diversity Leadership Symposium Conference during August 2020, I worked on a project with 3 teammates to design an app that would help customers locate nearby Target stores and how crowded each store is as it reaches maximum COVID-19 regulated capacity.</P>
 
+<p>
 <h6> Background </h6>
-We created a mock-up of what this application would look like. During events such as Black Friday, when stores experience overcrowding, an employee is often stationed at each entrance to limit the number of customers inside at a single time. This has become even more common with the further limited occupancy due to social distancing requirements. This Fall 2020 Semester, a new Target store opened up next to UIUC campus, where I was located. Nearly every other day during its first month of opening, there was a line of people waiting outside to enter the store (and there weren't even special event sales!). <br> <br>
+We created a mock-up of what this application would look like. During events where stores experience overcrowding, employees are often stationed at each entrance to limit customer capacity. The limited occupancy demands of COVID-19 have exacerbated this problem. This Fall 2020 Semester, a new Target store opened up next to UIUC campus, where I was located. Nearly every other day during its first month of opening, there was a line of people waiting outside to enter the store.
+</p>
 
+<p>
 <h6> Description </h6>
 This app allows users to view nearby Target stores according to the user's GPS location. Store locations are highlighted on a Google Map Services-powered map in color according to occupancy-- <br>
 Red: if there is a line of people waiting outside store <br> Yellow: if the store is approximately at max occupancy <br> Green: if the store occupancy is not near max occupancy. <br>
 
 <h2> Insert Map Image here and Demo</h2>
+</p>
 
 Check out the slides from our presentation <a target="_blank" href="ter.ps/targetHack">here</a>
-</p>
+
 <hr>
 
 <!-- close col-md-5 div -->
