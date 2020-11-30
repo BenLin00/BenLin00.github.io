@@ -33,7 +33,7 @@ As an avid music listener, Spotify is a great way to organize your favorite musi
 
 <p>
 Currently, users right click on a song > share and send friends a link via other social media apps as a url. This convoluted share process is distracting and obstructive because users are forced to set up their listening experience, whether it's putting in headphones or opening the application anew on their device. If a customer is wanting and able to listen to music, they would already be listening to music. Sending someone a song over social media just gets ignored until an appropriate time. Instead, I designed a way to casually recommend songs.
-</p
+</p>
 
 <p>
 This would have a search bar on the friend activity column so that users can search by name the user they want to send a song to, combined with the drag + drop UI that Spotify users are already familiar with, so users don't experience frustration with learning how to use a new feature. This is shown as with the demo below: <br> 
@@ -67,7 +67,7 @@ I made this with Khoa</p>
 <h1> insert image here </h1>
 
 <h6> Hackathon Winner: "Overall Winner" and "Most Technically Challenging" </h6> 
-<p> As part of the Target Diversity Leadership Symposium Conference during August 2020, I worked on a project with 3 teammates to design an app that would help customers locate nearby Target stores and how crowded each store is as it reaches maximum COVID-19 regulated capacity.</P>
+<p> As part of the Target Diversity Leadership Symposium Conference during August 2020, I worked on a project with 3 teammates to design an app that would help customers locate nearby Target stores and how crowded each store is as it reaches maximum COVID-19 regulated capacity.</p>
 
 <p>
 <h6> Background </h6>
