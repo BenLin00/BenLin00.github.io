@@ -8,7 +8,7 @@ comments: false
 <p>
 Here are a few of my project highlights from over the past few years.
 </p>
-<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#PM_section" class="btn btn-peach">Product Management</a> 
 <a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
 <a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
 
@@ -24,12 +24,18 @@ Here are a few of my project highlights from over the past few years.
 
 <div class="row justify-content-between">
 
-<div class="col-md-8 pr-5">
+<div class="col-md-9 pr-5">
 <h5> Spotify Public Queue Feature (Fall 2020)</h5>
-<h6> "Tell me about your favorite product and what you would change about it" </h6>
-<p> The most common PM interview question I get asked. I made a mock-up of what my response is: <br>
-As an avid music listener, Spotify is a great way to organize your favorite music, manage playlists, and discover new music. However, it’s social function is slightly lacking. A fan-favorite feature of the webapp is the right column "Friend Activity" scroll, which allows my friends and I to see what song we’re listening to in real-time. Let's incorporate this into a new proposed feature. </p>
 
+<p> The most common PM interview question I get asked is: <br>
+<u><b> "Tell me about your favorite product and what you would change about it" </b></u>
+<br> <br>
+I made a <b>mock-up</b> of my response: <br>
+I LOVE Spotify -- a music streaming platform with great features to organize your favorite music, manage playlists, and discover new music. However, it’s social functionality is slightly lacking. Spotify Stories are currently in production and a fan favorite feature is the right column of the webapp -- "Friend Activity". Users love seeing what their friends are listening to in real-time. I built upon this. </p>
+
+<p> I started by building a couple user personas. Take James below for an example -- a college student bored in quarantine and missing his friends.
+<img src="/assets/images/portfolio-photos/Spotify_UserPersona.png">
+</p>
 
 <p>
 Currently, users right click on a song > share and send friends a link via other social media apps as a url. This convoluted share process is distracting and obstructive because users are forced to set up their listening experience, whether it's putting in headphones or opening the application anew on their device. If a customer is wanting and able to listen to music, they would already be listening to music. Sending someone a song over social media just gets ignored until an appropriate time. Instead, I designed a way to casually recommend songs.
@@ -86,15 +92,15 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 
 <hr>
 
-<!-- close col-md-5 div -->
+<!-- close col-md-9 div -->
 </div>
 
-<div class="col-md-4">
+<div class="col-md-3">
 <div class="sticky-top sticky-top-80">
 <h5>Product Management / Design Projects</h5>
-<p> These are some of my favorite PM projects. I've really practiced thinking like a PM and what would be best for a target user / persona. </p>
+<p> Some of my favorite PM projects where I've practiced thinking like a user-oriented PM. </p>
 
-<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#PM_section" class="btn btn-peach">Product Management</a> 
 <a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
 <a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
 
@@ -115,7 +121,7 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 
 <div class="row justify-content-between">
 
-<div class="col-md-8 pr-5">
+<div class="col-md-9 pr-5">
 
 <h5> Google STEP Internship - Google Classroom Autograder (Summer 2020)</h5>
 <p> 
@@ -174,12 +180,12 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 <!-- close col-md-5 div -->
 </div>
 
-<div class="col-md-4">
+<div class="col-md-3">
 <div class="sticky-top sticky-top-80">
 <h5>Software Engineering Projects</h5>
 <p> These are some of my favorite SWE projects. beep boop. </p>
 
-<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#PM_section" class="btn btn-peach">Product Management</a> 
 <a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
 <a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
 
@@ -200,7 +206,7 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 
 <div class="row justify-content-between">
 
-<div class="col-md-8 pr-5">
+<div class="col-md-9 pr-5">
 
 <h5> Expressions Kenya (Fall 2020) </h5>
 <p> Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did.  </p>
@@ -220,12 +226,12 @@ insert information on data sources -- CAFB Distribution Location data, Census So
 
 </div>
 
-<div class="col-md-4">
+<div class="col-md-3">
 <div class="sticky-top sticky-top-80">
 <h5>Consulting Projects</h5>
 <p> I'm part of the QUEST Honors Program at the University of Maryland! As part of the program, I've worked in teams on these projects with Engineerings, CMNS, and Business students to consult for various organizations. </p>
 
-<a href="#PM_section" class="btn btn-peach">Product Design</a> 
+<a href="#PM_section" class="btn btn-peach">Product Management</a> 
 <a href="#SWE_section" class="btn btn-teal">Software Engineering</a> 
 <a href="#consulting_section" class="btn btn-purple">Consulting Projects</a>
 
