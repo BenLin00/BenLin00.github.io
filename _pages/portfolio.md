@@ -21,7 +21,6 @@ Here are a few of my project highlights from over the past few years.
     </div>
 </section>
 
-
 <div class="row justify-content-between">
 
 <div class="col-md-9 pr-5">
@@ -34,11 +33,11 @@ I made a <b>mock-up</b> of my response: <br>
 I LOVE Spotify -- a music streaming platform with great features to organize your favorite music, manage playlists, and discover new music. However, it’s social functionality is slightly lacking. Spotify Stories are currently in production and a fan favorite feature is the right column of the webapp -- "Friend Activity". Users love seeing what their friends are listening to in real-time. I built upon this. </p>
 
 <p> I started by building a couple user personas. Take James below for an example -- a college student bored in quarantine and missing his friends.
-<img src="/assets/images/portfolio-photos/Spotify_UserPersona.png">
+<img src="/assets/images/portfolio-photos/Spotify_UserPersona.png" alt="James Spotify user persona">
 </p>
 
 <p>
-Currently, users right click on a song > share and send friends a link via other social media apps as a url. This convoluted share process is distracting and obstructive because users are forced to set up their listening experience, whether it's putting in headphones or opening the application anew on their device. If a customer is wanting and able to listen to music, they would already be listening to music. Sending someone a song over social media just gets ignored until an appropriate time. Instead, I designed a way to casually recommend songs.
+From James' perspective, Spotify needs a cleaner way to share songs -- currently, users right click on a song > share and send friends a link via other social media apps as a url. This convoluted share process is distracting and obstructive as users, and it would be convenient to have different song recommendations from different friends in a centralized location -- right on the Spotify App.
 </p>
 
 <p>
@@ -59,7 +58,7 @@ Practically speaking, this is a seamless integration of increased social interac
 <h6> USE CASES </h6>
 Social gatherings are often accompanied by music. Multiple people wish to queue-up song requests at events. However, this requires crowding around a single device, or utilizing Spotify's beta Group Sessions, where users can only override the currently playing song at max 5 users.
 
-<br> Personas
+<br> <!-- insert Figma screenshot here -->
 <br>
 used Figma
 I made this with Khoa</p>
