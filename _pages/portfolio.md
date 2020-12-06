@@ -36,7 +36,7 @@ I LOVE Spotify -- a music streaming platform with great features to organize you
 <ul> <li>26% of Spotify users are Age 18-24 </li>
 <li>29% of Spotify are Age 25-35 </li> </ul>
 I started by building a couple user personas. Take James below as a example: a social college student bored in quarantine and missing his friends.
-<img src="./assets/images/portfolio-photos/spotify/UserPersona.png" alt="James Spotify user persona">
+<img src="/assets/images/portfolio-photos/spotify/UserPersona.png" alt="James Spotify user persona">
 </p>
 
 <p>
@@ -45,16 +45,16 @@ Spotify needs a cleaner way to share songs. Currently, users share a url link vi
 
 <p>
 I designed the workings of a new feature -- a <b> Public Queue </b> to contain all the songs your friends want to drop you. This would have the feel of a shared playlist, so users can see who's recommending which song, with controls to sort it by title, artist, or the user who dropped it. But songs would also pop-off the <u>Public Queue</u> and into <u>History</u>, characteristically of a queue. I made a demo in Figma below!:
-<img src="./assets/images/portfolio-photos/spotify/PublicQueue.gif" alt="gif of public queue">
+<img src="/assets/images/portfolio-photos/spotify/PublicQueue.gif" alt="gif of public queue">
 </p>
 
 <br>
 <p>
 <h5> Social Feature </h5>
-Having a Friend Activity <b>search function </b> on Spotify would both 1) allow users to see what specific friends have last listened to, and 2) create opportunity for song sharing through the familiar Spotify UI. I made demo for this as well below:
-<img src="./assets/images/portfolio-photos/spotify/ShareToFriend.gif" alt="share song to friend's public queue gif">
+Having a Friend Activity <b>search function </b> on Spotify would both 1) allow users to see what specific friends have last listened to, and 2) create opportunity for song sharing through the familiar Spotify UI. I made demo for this as well below: </p>
+<img src="/assets/images/portfolio-photos/spotify/ShareToFriend.gif" alt="share song to friend's public queue gif">
 Of course, we need a pop-up "Are you sure?" box, in case James drops a song on the wrong person by accident! 
-</p>
+<!-- </p> -->
 <br>
 
 <p>
@@ -64,11 +64,11 @@ Finally, this needs a little seamless integration! There's two ways users curren
 <div class="row">
 <div class="col-sm">
 <b> Right-Click </b>
-<img src="./assets/images/portfolio-photos/spotify/RightClick.gif" alt="rightclick to add song to queue gif" width = "100%">
+<img src="/assets/images/portfolio-photos/spotify/RightClick.gif" alt="rightclick to add song to queue gif" width = "100%">
 </div>
 <div class="col-sm">
 <b> Click-and-Drag </b>
-<img src="./assets/images/portfolio-photos/spotify/DragToIcon.gif" alt="drag to icon to add song to queue gif" width = "100%">
+<img src="/assets/images/portfolio-photos/spotify/DragToIcon.gif" alt="drag to icon to add song to queue gif" width = "100%">
 </div>
 </div>
 </p>
