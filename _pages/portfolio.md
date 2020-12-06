@@ -33,18 +33,24 @@ I made a <b>mock-up</b> of my response: <br>
 I LOVE Spotify -- a music streaming platform with great features to organize your favorite music, manage playlists, and discover new music. However, it’s social functionality is slightly lacking. Spotify Stories are currently in production and a fan favorite feature is the right column of the webapp -- "Friend Activity". Users love seeing what their friends are listening to in real-time. I built upon this. </p>
 
 <p> I started by building a couple user personas. Take James below for an example -- a college student bored in quarantine and missing his friends.
-<img src="/assets/images/portfolio-photos/Spotify_UserPersona.png" alt="James Spotify user persona">
+<img src="/assets/images/portfolio-photos/spotify/UserPersona.png" alt="James Spotify user persona">
 </p>
 
 <p>
-From James' perspective, Spotify needs a cleaner way to share songs -- currently, users right click on a song > share and send friends a link via other social media apps as a url. This convoluted share process is distracting and obstructive as users, and it would be convenient to have different song recommendations from different friends in a centralized location -- right on the Spotify App.
+Spotify needs a cleaner way to share songs. Currently, users share a url link via another social media. This is distracting for users. It's more convenient to have song recommendations in a centralized location -- right on the Spotify App.
 </p>
 
 <p>
-This would have a search bar on the friend activity column so that users can search by name the user they want to send a song to, combined with the drag + drop UI that Spotify users are already familiar with, so users don't experience frustration with learning how to use a new feature. This is shown as with the demo below: <br> 
+I designed the workings of a new feature -- a <b> Public Queue </b> to contain all the songs your friends want to drop you. This would have the feel of a shared playlist, so users can see who's recommending which song, with controls to sort it by title, artist, or the user who dropped it. But songs would also pop-off the <u>Public Queue</u> and into <u>History</u>, characteristically of a queue. I made a demo in Figma below!:
+<img src="/assets/images/portfolio-photos/spotify/PublicQueue.gif" alt="gif of public queue">
+</p>
 
-<h2> demo </h2>
-<!-- insert demo here -->
+<br>
+<p>
+Having a Friend Activity <b>search function </b> on Spotify would both 1) allow users to see what specific friends have last listened to, and 2) create opportunity for song sharing through the familiar Spotify UI. I made demo for this as well below:
+<img src="/assets/images/portfolio-photos/spotify/shareToFriend.gif" alt="share song to friend's public queue gif">
+Of course, we need a pop-up "Are you sure?" box, in case James drops a song on the wrong person by accident! 
+</p>
 
 <br>
 New song suggestions are paired up with a new <b> Public Queue </b> in addition to the users' current private queue. Songs displayed in this public queue would appear similarly to a shared playlist, listing the user who added the song and ability to sort songs. However, when songs from this playlist are played, they will be removed from the listing as with a queue. The queue layout including the new public queue is displayed below: <br>
@@ -64,6 +70,9 @@ used Figma
 I made this with Khoa</p>
 <!-- make this a demo vid or gif -->
 <img src = "/assets/images/portfolio-photos/QueueTheMusic.png" alt="Spotify QueueTheMusic Project Screenshot">
+
+<!-- clickable demo: -->
+<!-- https://www.figma.com/proto/jcbpf2iKJn1bSSD6oQyXAW/Spotify-Redesign?node-id=1%3A7&scaling=scale-down -->
 
 <hr>
 
