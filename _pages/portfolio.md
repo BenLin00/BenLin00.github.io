@@ -52,7 +52,7 @@ I designed the workings of a new feature -- a <b> Public Queue </b> to contain a
 <p>
 <h5> Social Feature </h5>
 Having a Friend Activity <b>search function </b> on Spotify would both 1) allow users to see what specific friends have last listened to, and 2) create opportunity for song sharing through the familiar Spotify UI. I made demo for this as well below: <br>
-<img src="/assets/images/portfolio-photos/spotify/DragToIcon.gif" alt="share song to friend's public queue gif"> <br>
+<img src="/assets/images/portfolio-photos/spotify/ShareToFriend.gif" alt="share song to friend's public queue gif"> <br>
 Of course, we need a pop-up "Are you sure?" box, in case James drops a song on the wrong person by accident! 
 </p>
 <br>
@@ -64,7 +64,7 @@ Finally, this needs a little seamless integration! There's two ways users curren
 <div class="row">
 <div class="col-sm">
 <b> Right-Click </b>
-<img src="/assets/images/portfolio-photos/spotify/DragToIcon.gif" alt="rightclick to add song to queue gif" width = "100%">
+<img src="/assets/images/portfolio-photos/spotify/RightClick.gif" alt="rightclick to add song to queue gif" width = "100%">
 </div>
 <div class="col-sm">
 <b> Click-and-Drag </b>
