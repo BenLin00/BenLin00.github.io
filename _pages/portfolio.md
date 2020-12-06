@@ -48,29 +48,33 @@ I designed the workings of a new feature -- a <b> Public Queue </b> to contain a
 <br>
 <p>
 Having a Friend Activity <b>search function </b> on Spotify would both 1) allow users to see what specific friends have last listened to, and 2) create opportunity for song sharing through the familiar Spotify UI. I made demo for this as well below:
-<img src="/assets/images/portfolio-photos/spotify/shareToFriend.gif" alt="share song to friend's public queue gif">
+<img src="/assets/images/portfolio-photos/spotify/ShareToFriend.gif" alt="share song to friend's public queue gif">
 Of course, we need a pop-up "Are you sure?" box, in case James drops a song on the wrong person by accident! 
 </p>
 
+<p>
+Finally, this needs a little seamless integration! There's two ways users currently add to their private queue. I expanded on both below:
+</p>
+
+
+<div class="row">
+<div class="col-sm">
+<img src="/assets/images/portfolio-photos/spotify/RightClick.gif" alt="rightclick to add song to queue gif" width = "100%">
+</div>
+<div class="col-sm">
+<img src="/assets/images/portfolio-photos/spotify/DragToIcon.gif" alt="drag to icon to add song to queue gif" width = "100%">
+</div>
+</div>
+
 <br>
-New song suggestions are paired up with a new <b> Public Queue </b> in addition to the users' current private queue. Songs displayed in this public queue would appear similarly to a shared playlist, listing the user who added the song and ability to sort songs. However, when songs from this playlist are played, they will be removed from the listing as with a queue. The queue layout including the new public queue is displayed below: <br>
-
-<h2> demo </h2>
-<!-- insert demo here -->
-
-<br>
-Practically speaking, this is a seamless integration of increased social interaction of users on the platform. Enhanced social functions may also appeal to customers as a way to casually connect with friends.
-
 <h6> USE CASES </h6>
 Social gatherings are often accompanied by music. Multiple people wish to queue-up song requests at events. However, this requires crowding around a single device, or utilizing Spotify's beta Group Sessions, where users can only override the currently playing song at max 5 users.
 
 <br> <!-- insert Figma screenshot here -->
 <br>
-used Figma
-I made this with Khoa</p>
+<!-- used Figma
+I made this with Khoa -->
 <!-- make this a demo vid or gif -->
-<img src = "/assets/images/portfolio-photos/QueueTheMusic.png" alt="Spotify QueueTheMusic Project Screenshot">
-
 <!-- clickable demo: -->
 <!-- https://www.figma.com/proto/jcbpf2iKJn1bSSD6oQyXAW/Spotify-Redesign?node-id=1%3A7&scaling=scale-down -->
 
