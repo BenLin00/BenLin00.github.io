@@ -64,7 +64,7 @@ Finally, this needs a little seamless integration! There's two ways users curren
 <div class="row">
 <div class="col-sm">
 <b> Right-Click </b>
-<img src="/assets/images/portfolio-photos/spotify/RightClick.gif" alt="rightclick add song to queue gif" width = "100%">
+<img src="/assets/images/portfolio-photos/spotify/rightClick.gif" alt="rightclick add song to queue gif" width = "100%">
 </div>
 <div class="col-sm">
 <b> Click-and-Drag </b>
