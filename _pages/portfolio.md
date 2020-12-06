@@ -47,28 +47,38 @@ I designed the workings of a new feature -- a <b> Public Queue </b> to contain a
 
 <br>
 <p>
+<h5> Social Feature </h5>
 Having a Friend Activity <b>search function </b> on Spotify would both 1) allow users to see what specific friends have last listened to, and 2) create opportunity for song sharing through the familiar Spotify UI. I made demo for this as well below:
 <img src="/assets/images/portfolio-photos/spotify/ShareToFriend.gif" alt="share song to friend's public queue gif">
 Of course, we need a pop-up "Are you sure?" box, in case James drops a song on the wrong person by accident! 
 </p>
+<br>
 
 <p>
+<h5> Seamless Integration </h5>
 Finally, this needs a little seamless integration! There's two ways users currently add to their private queue. I expanded on both below:
-</p>
-
 
 <div class="row">
 <div class="col-sm">
+<b> Right-Click </b>
 <img src="/assets/images/portfolio-photos/spotify/RightClick.gif" alt="rightclick to add song to queue gif" width = "100%">
 </div>
 <div class="col-sm">
+<b> Click-and-Drag </b>
 <img src="/assets/images/portfolio-photos/spotify/DragToIcon.gif" alt="drag to icon to add song to queue gif" width = "100%">
 </div>
 </div>
+</p>
 
 <br>
-<h6> USE CASES </h6>
-Social gatherings are often accompanied by music. Multiple people wish to queue-up song requests at events. However, this requires crowding around a single device, or utilizing Spotify's beta Group Sessions, where users can only override the currently playing song at max 5 users.
+<h5> Use Cases</h5>
+<ul>
+    <li> Parties and other social gathering are accompanied by music. Playing someone's Public Queue would let anyone drop their song requests into aux wordlessly and from their own device.
+    </li>
+    <li> This feature centralizes song recommendations from several friends into one location -- it's casual and non-disruptive to another social media space.
+    </li>
+</ul>
+Both of these are perfect for our User Persona James, who loves to talk about music and share music between friends. The problem with Spotify's currently beta Group Session is that users can only override the currently playing song, and currently has a 5 person limit.
 
 <br> <!-- insert Figma screenshot here -->
 <br>
