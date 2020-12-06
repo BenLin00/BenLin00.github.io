@@ -17,14 +17,14 @@ Here are a few of my project highlights from over the past few years.
 ================================================== -->
 <section>
     <div id="PM_section" class="section-title">
-        <h2><span>Product Management / Design </span></h2>
+        <h1 class = "display-4"><span>Product Management / Design </span></h1>
     </div>
 </section>
 
 <div class="row justify-content-between">
 
 <div class="col-md-9 pr-5">
-<h5> Spotify Public Queue Feature (Fall 2020)</h5>
+<h2> Spotify Public Queue Feature (Fall 2020)</h2>
 
 <p> The most common PM interview question I get asked is: <br>
 <u><b> "Tell me about your favorite product and what you would change about it" </b></u>
@@ -32,7 +32,10 @@ Here are a few of my project highlights from over the past few years.
 I made a <b>mock-up</b> of my response: <br>
 I LOVE Spotify -- a music streaming platform with great features to organize your favorite music, manage playlists, and discover new music. However, it’s social functionality is slightly lacking. Spotify Stories are currently in production and a fan favorite feature is the right column of the webapp -- "Friend Activity". Users love seeing what their friends are listening to in real-time. I built upon this. </p>
 
-<p> I started by building a couple user personas. Take James below for an example -- a college student bored in quarantine and missing his friends.
+<p>User Research tells us:
+<ul> <li>26% of Spotify users are Age 18-24 </li>
+<li>29% of Spotify are Age 25-35 </li> </ul>
+I started by building a couple user personas. Take James below as a example: a social college student bored in quarantine and missing his friends.
 <img src="/assets/images/portfolio-photos/spotify/UserPersona.png" alt="James Spotify user persona">
 </p>
 
@@ -79,19 +82,25 @@ Finally, this needs a little seamless integration! There's two ways users curren
     </li>
 </ul>
 Both of these are perfect for our User Persona James, who loves to talk about music and share music between friends. The problem with Spotify's currently beta Group Session is that users can only override the currently playing song, and currently has a 5 person limit.
+<br> <br>
 
-<br> <!-- insert Figma screenshot here -->
+<blockquote class="blockquote">
+  <p class="mb-0">
+  I used Asana as my Agile Scrum task manager and Figma to design these mockups. <br> 
+  The clickable demo can be found
+  <a href="https://www.figma.com/proto/jcbpf2iKJn1bSSD6oQyXAW/Spotify-Redesign?node-id=1%3A7&scaling=scale-down" target="_blank"> here.</a>  
+  </p>
+</blockquote>
+<img src="/assets/images/portfolio-photos/spotify/FigmaDemo.png" alt="drag to icon to add song to queue gif" width="100%">
 <br>
-<!-- used Figma
-I made this with Khoa -->
-<!-- make this a demo vid or gif -->
-<!-- clickable demo: -->
-<!-- https://www.figma.com/proto/jcbpf2iKJn1bSSD6oQyXAW/Spotify-Redesign?node-id=1%3A7&scaling=scale-down -->
+I created this project as part of the "Out In Tech" Fall 2020 University Mentorship program under the guidance of my mentor, Khoa Ma.
 
-<hr>
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr/>
 
 <br>
-<h5> Target COVID-19 Store Occupany Tracker (Aug 2020)</h5>
+<h2><u> Target COVID-19 Store Occupany Tracker (Aug 2020)</u></h2>
 <h1> insert image here </h1>
 
 <h6> Hackathon Winner: "Overall Winner" and "Most Technically Challenging" </h6> 
