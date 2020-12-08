@@ -121,7 +121,6 @@ This app allows users to view nearby Target stores according to the user's GPS l
 <li> Green: if the store occupancy is not near max occupancy. </li>
 </ul>
 </p>
-<!-- <embed src="/assets/videos/TargetCapacityTracker.mp4" autostart="false" height="400" width="250" /> -->
 
 <video width="200" height="420" controls>
   <source src="/assets/videos/TargetCapacityTracker.mp4" type="video/mp4">
@@ -166,27 +165,57 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 
 <div class="col-md-9 pr-5">
 
-<h5> Google STEP Internship - Google Classroom Autograder (Summer 2020)</h5>
+<h2> Google STEP Internship - Google Classroom Autograder (Summer 2020)</h2>
+<br>
+<h5> Project Overview </h5>
 <p> 
-During my Summer 2020 internship, I worked with two other co-interns to build a Full-Stack Web Application. This application is an autograder for virtual teachers to autograde student coursework submissions on Google Classroom. <br>
-
-This application used the OAuth for an instructor to login to the website with the same account they use for Google Classroom. We used the Google Classroom API such that the website pulled all the courses, assignments, and submissions from an instructor's Google Classroom account. Next, we created pagination and a frontend for the teacher to view a single students' submission of a worksheet. This frontend allows a teacher to mark out the response area from the student for each question.
-<br>
+During my Summer 2020 internship, I worked with two other co-interns to build a Full-Stack Web Application. This application is an autograder for virtual teachers to autograde student coursework submissions on Google Classroom. The application used the OAuth for an instructor to login to the website with the same account they use for Google Classroom. We used the Google Classroom API such that the website pulled all the courses, assignments, and submissions from an instructor's Google Classroom account. Next, we created pagination and a frontend for the teacher to view a single students' submission of a worksheet. This frontend allows a teacher to mark out the response area from the student for each question.
+</p>
+<p>
 After each questions' response area has been marked accordingly, the application parses the responses as images from each student. The Google Cloud Vision API is next implemented to parse out the written text. All responses for a single question are converted to Strings, and similar responses to a question are grouped together in buckets. 
-<br>
+</p>
+<p>
 Finally, the instructor is able to assign a point value to each bucket of responses. This allows for partial grading, for example, all responses with the answer "Rome" can be assigned a 10pt value, while all responses answered "Italy" can be assigned 5pts. This application greatly cuts down on the amount of time a teacher would spend grading each student's answer to each question, as they would now only need to grade each unique response to each question once. 
+</p>
+
+<video width="600" height="350" controls>
+  <source src="/assets/videos/GoogleAutograderDemo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<br>
+<p>
+<h6> Technical Specifications </h6>
+For this project, we utilized several APIs and other tools. This includes GCP Datastore to store metadata on each assignment submission, the teachers' students, and grades. We used GCP Blobstore to store the assignments and parsed out student responses. 
+<br>
+We also used Google OAuth so that teachers would be able to log into our third-party application with their GSuite account, and used the Google Classroom API to pull all of a teacher's courses they are teaching, their students' submissions, and write grades back to the Google Classroom for the students to know their grades. We used the Google cloud Vision API in order to parse out student handwritten responses and cluster similar responses for partial grading. Finally, I used the Materialize.css framework. <br>
+The front-end was bulit in Vanilla Javascript, HTML/CSS. The backend was built using Java Servlets.
+</p>
+
+<h5> Development Process </h5>
+<h6> Background</h6>
+For this project, I, along with my two podmates, designed the project for approval before it could begin. Aside from writing the Design Doc, this all began with good-old-fashioned brainstorming. Classroom instructors, where grading reportedly causes teachers to spend several hours a week working overtime. This has only been projected to increased due to the transition to online learning during the COVID-19 Pandemic. Mmoreover, research shows that giving feedback immediately after assignment submissions improves students responses in a positive manner, leader to higher memory retension. By creating a tool that curts down grading time, instructors can spend their limited time in more valuable ways as students get the efficient feedback they need to suceed.  
 <br>
 
-<h6> Technical Specifications </h6>
-database design, Google OAuth, Google Classroom API, Google Cloud Vision API, Materialize.css
+<h6> User Research </h6>
+<p>
+Upon coming to a project in mind, we began by writing detailed User Stories to justify why this is a necessary feature, and how this could potentially save teachers at least 20% of their current work time, if not more. From the customer perspective, teachers being pushed to an online learning environment has caused a huge increase in workload as most K-12 teachers are over the age of 40. As a generation who may struggle with technology more, these users were not familiar with an efficient way to grade several submissions at a time. 
+</p>
 
-<h6> What I did </h6>
-asdf <br>
-Also, Agile dev design doc writing, code reviews, scope prioritization, roadmapping, and prototyping. <br>
-//Significance with COVID-19
+<h6> Design </h6>
+<p>
+Before begining to software engineer this application, we built a rough-draft basic wireframe to demonstrate the designed pagination and content of the webapp. The Figma skeleton can be viewed
+<a href="https://www.figma.com/file/B2gGkcMt7zzasnSggxhjYG/Goog?node-id=0%3A1" target="_blank"> here.</a>
+</p>
+
+We also created a prototype website, which can be viewed <a href="https://autograderprototype--rsampdev.repl.co/pages/courses.html" target="_blank"> here.</a>
+
+Next, the project was split into individual contributor parts. We created a 8-week timeline against a detailed list of features and tasks. These features were then prioritized into P0, P1, and P2 prioritity levels, based off of MVP Goals and MVP Non-Goals. The only thing left is to build it, the demo for which is above.
 </p>
 <img src = "/assets/images/blog-photos/google-podmates.jpg" alt="Google Project Image">
 
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr style="height:8px;border:none;color:green;background-color:green;" />
 <hr>
 
 <br>
@@ -200,6 +229,8 @@ My cointerns, Marissa, Alex, and I pictured below:
 </p>
 <img src = "/assets/images/portfolio-photos/NIH_cointerns.jpg" alt="NIH Cointerns">
 
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr style="height:8px;border:none;color:green;background-color:green;" />
 <hr>
 
 <br> 
