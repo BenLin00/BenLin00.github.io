@@ -101,23 +101,33 @@ I created this project as part of the "Out In Tech" Fall 2020 University Mentors
 
 <br>
 <h2><u> Target COVID-19 Store Occupany Tracker (Aug 2020)</u></h2>
-<h1> insert image here </h1>
+<img src="/assets/images/portfolio-photos/TargetMap.png" alt="Target capacity tracker in-app map" width="100%">
+
 
 <h6> Hackathon Winner: "Overall Winner" and "Most Technically Challenging" </h6> 
 <p> As part of the Target Diversity Leadership Symposium Conference during August 2020, I worked on a project with 3 teammates to design an app that would help customers locate nearby Target stores and how crowded each store is as it reaches maximum COVID-19 regulated capacity.</p>
 
 <p>
 <h6> Background </h6>
-We created a mock-up of what this application would look like. During events where stores experience overcrowding, employees are often stationed at each entrance to limit customer capacity. The limited occupancy demands of COVID-19 have exacerbated this problem. This Fall 2020 Semester, a new Target store opened up next to UIUC campus, where I was located. Nearly every other day during its first month of opening, there was a line of people waiting outside to enter the store.
+We created a mock-up of the application feel. During events where stores experience overcrowding, employees are often stationed at each entrance to limit customer capacity. The limited occupancy demands of COVID-19 have exacerbated this problem. This Fall 2020 Semester, a new Target store opened up next to UIUC campus where I was located. Nearly every other day during its first month of opening, there was a line of people waiting outside to enter the store.
 </p>
 
 <p>
 <h6> Description </h6>
-This app allows users to view nearby Target stores according to the user's GPS location. Store locations are highlighted on a Google Map Services-powered map in color according to occupancy-- <br>
-Red: if there is a line of people waiting outside store <br> Yellow: if the store is approximately at max occupancy <br> Green: if the store occupancy is not near max occupancy. <br>
-
-<h2> Insert Map Image here and Demo</h2>
+This app allows users to view nearby Target stores according to the user's GPS location. Store locations are highlighted on a Google Map Services-powered map in color according to occupancy--
+<ul>
+<li> Red: if there is a line of people waiting outside store </li>
+<li> Yellow: if the store is approximately at max occupancy </li>
+<li> Green: if the store occupancy is not near max occupancy. </li>
+</ul>
 </p>
+<embed src="/assets/videos/TargetCapacityTracker.mp4" autostart="false" height="400" width="250" />
+
+<video width="200" height="420" controls>
+  <source src="/assets/videos/TargetCapacityTracker.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<br>
 
 Check out the slides from our presentation <a target="_blank" href="ter.ps/targetHack">here</a>
 
