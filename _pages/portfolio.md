@@ -220,9 +220,10 @@ Next, the project was split into individual contributor parts. We created a 8-we
 
 <br>
 <h5> National Institutes of Health Internship (Summer 2019) </h5>
-<p> Machine Learning and stuff. Machine Learning and stuff. Machine Learning and stuff. <br>
+<p>  <br>
 I worked within the Division of Technical Resources at NIH, specifically the Utilities Engineering Branch. NIH has a Central Utility Plant (CUP) on campus to generate hot/cold water and steam for its hospitals and research buildings. I worked primarily in Matlab to improve a model that would predict the amount of utilities that needed to be generated on a given hour. For example, a hot, low-humidity day might require more cold water generation, especially as the load/demand for cold water within the hospital increases. These predictions hypothetically create virtual, predicted savings as the CUP operators could adjust their production accordingly.
-<br> <br>
+</p>
+<p>
 I also did front-end web development there too! Since I often found myself with time leftover, I picked up a secondary project -- working on the dynamic web pages of a website used to in Angular to do perform a datapull from the PI OSIsoft internal database in a convenient UI for the operators to act off of.
 <br>
 My cointerns, Marissa, Alex, and I pictured below:
@@ -235,7 +236,9 @@ My cointerns, Marissa, Alex, and I pictured below:
 
 <br> 
 <h5> HackUMBC - Cardiac Connection (Fall 2019) </h5>
-<p> I competed in  HackUMBC Fall 2019! I built an app similar to Tinder, but with a bit more HCI (Human-Computer Interaction) pushed into it. <br>
+<p> I competed in  HackUMBC Fall 2019! I built an app similar to Tinder, but with a bit more HCI (Human-Computer Interaction) pushed into it. The devpost for this hackathon project can be found 
+<a href="https://devpost.com/software/cardiac-chemistry" target="_blank"> here.</a>
+<br>
 At this particularly hackathon, the majority of the sponsors had come up with challenges such as "Best Data Visualization Hack" or something along those lines. But none of them provided a dataset, and I didn't want to waste time at a 24-hour hackathon doing data mining and cleansing. <br>
 
 So instead, my two friends and I decided to throw something together a little more fun! We built a Javascript App using Cordova, which allowed us to demo on either Android or iOS. This application allowed users to swipe either left or right on card profiles, containing a person's photo and short bio. I also utilized the Google Cloud API -- GCP datastore buckets to store these profiles and fetch them for the app. <br>
@@ -243,12 +246,14 @@ So instead, my two friends and I decided to throw something together a little mo
 We also built a Fitbit App, which would take note of your heart rate. This would be used to ping the mobile app on someone's device to automatically swipe right when the users' heart rate escalates. <br>
 
 <h6> Next Steps </h6>
-Unfortunately, this is only a 24-hour hackathon, so of course features went unfinished. Our next step would include an interface for users to build their own profile, rather than simply swiping on other profiles. Another feature to implement would be real-time chat. <br>
+Unfortunately, this is only a 24-hour hackathon -- many of our features went unfinished. Our next step would include an interface for users to build their own profile, rather than simply swiping on other profiles. Another feature to implement would be real-time chat. <br>
 The Fitbit would not communicate, however, because using the Fitbit API requires someone to manually review the request to utilize it. Because we overlooked this at the start of our project design, we were unable to get access to use the API in time. A next step would be incorporating the Fitbit and Mobile apps to communicate.
 </p>
 
 Check out the devpost from the hackathon <a target="_blank" href="https://devpost.com/software/cardiac-chemistry">here</a>
 
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr style="height:8px;border:none;color:green;background-color:green;" />
 <hr>
 
 <!-- close col-md-5 div -->
@@ -283,8 +288,12 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 <div class="col-md-9 pr-5">
 
 <h5> Expressions Kenya (Fall 2020) </h5>
-<p> Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did. Stuff about Expressions and what I did.  </p>
-<img src = "/assets/images/portfolio-photos/QueueTheMusic.png" alt="Spotify QueueTheMusic Project Screenshot">
+<p> Expressions is an agricultural-tech start-up in Kenya. During the Fall 2020 semester, they were looking to pitch to investors with a minimum ask of $250,000 with a target goal of $1.5MM USD. In this case, the team deed to build more credibility to the company.  </p>
+
+<!-- solar transitions stuff -->
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr>
 
 <br> <br>
 <h5> Captial Area Food Bank - Data Analytics (Spring 2020) </h5>
@@ -293,7 +302,7 @@ The Capital Area Food Bank (CAFB) is one of the largest Food Banks in the mid-at
 <br>
 The CAFB has 450+ Food Assistance Partners. This includes emergencies, soup kitchens, senior programs, among others. Given the census tract data on the area, we used Python to identify outlier areas of underserved populations where the CAFB can potentially reallocate resources. Due to the COVID-19 pandemic, implementing any of these changes has been delayed. However, please view the poster below as our provided recommendations.
 <br>
-insert information on data sources -- CAFB Distribution Location data, Census Socioeconomic Data, folium data visualization
+This data analytics project includeed data from the CAFB Distribution Location data and Census Socioeconomic Data. We used folium to perform the featured data visualization.
 </p>
 
 <img src = "/assets/images/portfolio-photos/CAFB_poster.png" alt="CAFB Consulting Project Recommendations Poster">
