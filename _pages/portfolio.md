@@ -122,6 +122,7 @@ This app allows users to view nearby Target stores according to the user's GPS l
 </ul>
 </p>
 
+<h6> Check out this demo!:</h6>
 <video width="200" height="420" controls>
   <source src="/assets/videos/TargetCapacityTracker.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -129,6 +130,33 @@ Your browser does not support the video tag.
 <br>
 
 Check out the slides from our presentation <a target="_blank" href="ter.ps/targetHack">here</a>
+
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr>
+
+<br>
+<h2><u> Spacial Smarts Product Pitch (October 2019)</u></h2>
+<img src="/assets/images/portfolio-photos/SpatialSmartsWireFrame.png" alt="Spacial Smarts presentation wireframe" width="100%">
+
+<h6> Overview </h6> 
+<p> This is a technical product pitch I worked created alongside 4 teammates! This product is a online learning platform to improve spacial reasoning skills in children. </p>
+<!-- pitchdeck -->
+<p>
+<h6> User Research </h6>
+Looking at several long-term studies, Spacial Reasoning abilities in children during adolescence strongly correlated with advanced degrees in higher education. According to Vanderbilt Peabody College, "more than 90% of those holding STEM PhD's were in the top quartile in spatial ability during adolescence." As correlation is not causation, improving spacial reasoning in children may not affect their adult achievement<br>
+Next, I conducted stakeholder interviews with teachers in both private and public schools. I also created a survey and gathered responses from 100 local K-12 teachers. Froom the data collected, 80% of these teachers already used technology in the classroom to reinforce their students' learning, 75% of which reported being wanting a change in curriculum to further incorporate spacial reasoning in education. 
+</p>
+<img src="/assets/images/portfolio-photos/SpatialSmartsData.png" alt="Spacial Smarts survey daya" width="70%">
+<br>
+
+<h6> Business Strategy </h6>
+<p>
+(Under Construction)
+</p>
+
+<h6> Check out our pitch deck here!: <a target="_blank" href="https://docs.google.com/presentation/d/1Vu0N-vrJTUN76HIuFM6-M9vyxxhRwdQXCoAQ-JD5GzA/edit?usp=sharing">here</a></h6>
+<br>
 
 <hr style="height:8px;border:none;color:green;background-color:green;" />
 <hr style="height:8px;border:none;color:green;background-color:green;" />
@@ -157,7 +185,7 @@ Check out the slides from our presentation <a target="_blank" href="ter.ps/targe
 ================================================== -->
 <section>
     <div id="SWE_section" class="section-title">
-        <h2><span> Software Engineering Experience </span></h2>
+        <h2><span> Software Engineering Experience (Under Construction)</span></h2>
     </div>
 </section>
 
@@ -279,7 +307,7 @@ Check out the devpost from the hackathon <a target="_blank" href="https://devpos
 ================================================== -->
 <section>
     <div id="consulting_section" class="section-title">
-        <h2><span> Consulting Experience </span></h2>
+        <h2><span> Consulting Experience (Under Construction)</span></h2>
     </div>
 </section>
 
