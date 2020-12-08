@@ -97,7 +97,7 @@ I created this project as part of the "Out In Tech" Fall 2020 University Mentors
 
 <hr style="height:8px;border:none;color:green;background-color:green;" />
 <hr style="height:8px;border:none;color:green;background-color:green;" />
-<hr/>
+<hr>
 
 <br>
 <h2><u> Target COVID-19 Store Occupany Tracker (Aug 2020)</u></h2>
@@ -121,7 +121,7 @@ This app allows users to view nearby Target stores according to the user's GPS l
 <li> Green: if the store occupancy is not near max occupancy. </li>
 </ul>
 </p>
-<embed src="/assets/videos/TargetCapacityTracker.mp4" autostart="false" height="400" width="250" />
+<!-- <embed src="/assets/videos/TargetCapacityTracker.mp4" autostart="false" height="400" width="250" /> -->
 
 <video width="200" height="420" controls>
   <source src="/assets/videos/TargetCapacityTracker.mp4" type="video/mp4">
@@ -131,6 +131,8 @@ Your browser does not support the video tag.
 
 Check out the slides from our presentation <a target="_blank" href="ter.ps/targetHack">here</a>
 
+<hr style="height:8px;border:none;color:green;background-color:green;" />
+<hr style="height:8px;border:none;color:green;background-color:green;" />
 <hr>
 
 <!-- close col-md-9 div -->
