@@ -271,10 +271,16 @@ At this particularly hackathon, the majority of the sponsors had come up with ch
 
 So instead, my two friends and I decided to throw something together a little more fun! We built a Javascript App using Cordova, which allowed us to demo on either Android or iOS. This application allowed users to swipe either left or right on card profiles, containing a person's photo and short bio. I also utilized the Google Cloud API -- GCP datastore buckets to store these profiles and fetch them for the app. <br>
 
+<img src = "/assets/images/portfolio-photos/CardiacConnection/cardiac_connection_mobile.jpg" alt="Cardiac Connection Mobile Frontend">
+
+
 We also built a Fitbit App, which would take note of your heart rate. This would be used to ping the mobile app on someone's device to automatically swipe right when the users' heart rate escalates. <br>
 
+<img src = "/assets/images/portfolio-photos/CardiacConnection/cardiac_connection_fitbit.jpg" alt="Cardiac Connection Fitbit App">
+
+
 <h6> Next Steps </h6>
-Unfortunately, this is only a 24-hour hackathon -- many of our features went unfinished. Our next step would include an interface for users to build their own profile, rather than simply swiping on other profiles. Another feature to implement would be real-time chat. <br>
+This was only a 24-hour hackathon -- many of our features went unfinished. Our next step would include an interface for users to build their own profile, rather than simply swiping on other profiles. Another feature to implement would be real-time chat. <br>
 The Fitbit would not communicate, however, because using the Fitbit API requires someone to manually review the request to utilize it. Because we overlooked this at the start of our project design, we were unable to get access to use the API in time. A next step would be incorporating the Fitbit and Mobile apps to communicate.
 </p>
 
