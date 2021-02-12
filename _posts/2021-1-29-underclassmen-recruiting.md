@@ -23,7 +23,7 @@ This is by noooo meanssss a comprehensive list! Just the ones I happened to stum
 Several companies also host conferences themselves! It gives them a chance to do a quick preliminary screening of particularly interested candidates (the ones least likely to reneg or turn down an offer). It's a super easy way to guarantee an interview, pick up free swag, and get flown out to a new city for free! <br>
 
 ##### Company-hosted Conferences:
-> Twitter #EarlyBird, Capital One Summit, Discover Financial Services Diversity Accelerator Program, Target Diversity Leadership Symposium (DLS), Deloitte National Leadership Conference (DNLC), Bloomberg Empowers, Goldman Sachs Summit, Empower Summit, Lyft Early Talent Access, Morgan Stanley Sophomore Investment Banking / Diversity Programs
+> Twitter #EarlyBird, Capital One Summit, Discover Financial Services Diversity Accelerator Program, Target Diversity Leadership Symposium (DLS), Deloitte National Leadership Conference (DNLC), Bloomberg Empowers, Goldman Sachs Summit, Empower Summit, Lyft Early Talent Access, Morgan Stanley Early Insights
 
 Several of these are intended for underrepresented groups in Tech. I personally don't qualify for all of these, but I recommend you apply to and attend all the ones you can. Also, I personally just love meeting new people 🙂
 <hr>
