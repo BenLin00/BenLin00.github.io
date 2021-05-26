@@ -129,7 +129,7 @@ Your browser does not support the video tag.
 </video>
 <br>
 
-Check out the slides from our presentation <a target="_blank" href="ter.ps/targetHack">here</a>
+Check out the slides from our presentation <a target="_blank" href="https://ter.ps/targetHack">here</a>
 
 <hr style="height:8px;border:none;color:green;background-color:green;" />
 <hr style="height:8px;border:none;color:green;background-color:green;" />
