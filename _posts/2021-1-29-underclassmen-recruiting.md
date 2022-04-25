@@ -9,6 +9,9 @@ hidden: true
 ---
 
 Hello!<br>
+
+Here is my internship application tracker I've put together: https://docs.google.com/spreadsheets/d/1GjQLz7nfR7Lqz7Jttgz2B1SnKsiCKK35xQRCoEsilXM/
+
 #### Freshman/Sophomore-Specific SWE Internships  
 Lots of big tech companies recruit specifically Freshman and Sophomores in University. They have separate programs built out for this. This is because companies typically have a strong preference towards recruiting Juniors and Seniors (in case you haven't noticed). As a result, I've created a list of companies and their programs this past Fall 2020. 
 
